@@ -2,3 +2,8 @@ This is my first Git practice project.
 
 Day 1:
 Learning Git and GitHub for bioinformatics.
+
+I successfully created a local Git repository and pushed my first commit to GitHub.
+
+Git workflow:
+Working Directory -> Staging Area -> Commit -> Local Repository -> Push -> GitHub
