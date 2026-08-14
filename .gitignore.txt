@@ -1,0 +1,15 @@
+# Large bioinformatics files
+*.fastq
+*.fastq.gz
+*.bam
+*.cram
+
+# Python temporary files
+__pycache__/
+*.pyc
+
+# Environment files
+.env
+
+# Temporary output
+temp/
