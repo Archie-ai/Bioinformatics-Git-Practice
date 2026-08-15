@@ -1,0 +1,1 @@
+Preferred QC tool: FastQC
